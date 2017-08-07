@@ -1,0 +1,2 @@
+INSERT into menuGroup
+values (6, "Lo Mein", "捞面"),(7, 'Egg Foo Young', '芙蓉蛋'), (8, 'Poultry', '家禽'), (9, "Seafood", "海鲜"), (10, "Beef and Lamb", "牛肉"), (11,"Pork", "猪肉"), (12, "Vegetables", "蔬菜"), (13, "Pad Thai Noodle", "泰式"), (14, "Combination Platters","组合"), (15, "House Specials", "特殊"), (16, "Lunch", "午餐"), (17, "Side Orders", "边")
